@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="42" total="64" passed="20" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T16:57:56 IST" name="Suite" finished-at="2023-01-09T16:59:19 IST" duration-ms="82318">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T16:57:56 IST" name="Test" finished-at="2023-01-09T16:59:19 IST" duration-ms="82318">
+      <class name="com.flipkart.testcases.furnitureTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.furnitureTest@2ddc9a9f]" started-at="2023-01-09T16:58:45 IST" name="startTest" finished-at="2023-01-09T16:58:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.furnitureTest.sofatest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="sofatest()[pri:0, instance:com.flipkart.testcases.furnitureTest@2ddc9a9f]" started-at="2023-01-09T16:58:45 IST" name="sofatest" finished-at="2023-01-09T16:58:46 IST" duration-ms="1485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sofatest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.furnitureTest@2ddc9a9f]" started-at="2023-01-09T16:58:46 IST" name="status" finished-at="2023-01-09T16:58:46 IST" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sofatest status=SUCCESS method=furnitureTest.sofatest()[pri:0, instance:com.flipkart.testcases.furnitureTest@2ddc9a9f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.furnitureTest -->
+      <class name="com.flipkart.testcases.CoinBalanceTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.CoinBalanceTest@f0c8a99]" started-at="2023-01-09T16:58:54 IST" name="startTest" finished-at="2023-01-09T16:58:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.CoinBalanceTest.checkSuperCoinBalance() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="checkSuperCoinBalance()[pri:0, instance:com.flipkart.testcases.CoinBalanceTest@f0c8a99]" started-at="2023-01-09T16:58:54 IST" name="checkSuperCoinBalance" finished-at="2023-01-09T16:58:56 IST" duration-ms="2593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuperCoinBalance -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.CoinBalanceTest@f0c8a99]" started-at="2023-01-09T16:58:56 IST" name="status" finished-at="2023-01-09T16:58:56 IST" duration-ms="119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkSuperCoinBalance status=SUCCESS method=CoinBalanceTest.checkSuperCoinBalance()[pri:0, instance:com.flipkart.testcases.CoinBalanceTest@f0c8a99] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.CoinBalanceTest -->
+      <class name="com.flipkart.testcases.loginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86]" started-at="2023-01-09T16:57:54 IST" name="setup" finished-at="2023-01-09T16:57:56 IST" duration-ms="2621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateToUrl()[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86]" started-at="2023-01-09T16:57:56 IST" name="navigateToUrl" finished-at="2023-01-09T16:58:25 IST" duration-ms="28423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToUrl -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86]" started-at="2023-01-09T16:58:25 IST" name="startTest" finished-at="2023-01-09T16:58:25 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.loginPageTest.loginfunction()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="loginfunction()[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86]" started-at="2023-01-09T16:58:25 IST" name="loginfunction" description="First Test Case" finished-at="2023-01-09T16:58:25 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86]" started-at="2023-01-09T16:58:25 IST" name="status" finished-at="2023-01-09T16:58:26 IST" duration-ms="474" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginfunction status=SUCCESS method=loginPageTest.loginfunction()[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.testcases.loginPageTest@1ffaf86]" started-at="2023-01-09T16:59:19 IST" name="tearDown" finished-at="2023-01-09T16:59:20 IST" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.testcases.loginPageTest -->
+      <class name="com.flipkart.testcases.KidsToyTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.KidsToyTest@2e385cce]" started-at="2023-01-09T16:58:41 IST" name="startTest" finished-at="2023-01-09T16:58:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.KidsToyTest.toytest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="toytest()[pri:0, instance:com.flipkart.testcases.KidsToyTest@2e385cce]" started-at="2023-01-09T16:58:41 IST" name="toytest" finished-at="2023-01-09T16:58:45 IST" duration-ms="3922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toytest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.KidsToyTest@2e385cce]" started-at="2023-01-09T16:58:45 IST" name="status" finished-at="2023-01-09T16:58:45 IST" duration-ms="57" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toytest status=SUCCESS method=KidsToyTest.toytest()[pri:0, instance:com.flipkart.testcases.KidsToyTest@2e385cce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.KidsToyTest -->
+      <class name="com.flipkart.testcases.ApplianceTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.ApplianceTest@3646a422]" started-at="2023-01-09T16:58:30 IST" name="startTest" finished-at="2023-01-09T16:58:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.ApplianceTest.actest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="actest()[pri:1, instance:com.flipkart.testcases.ApplianceTest@3646a422]" started-at="2023-01-09T16:58:30 IST" name="actest" finished-at="2023-01-09T16:58:31 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.ApplianceTest@3646a422]" started-at="2023-01-09T16:58:31 IST" name="status" finished-at="2023-01-09T16:58:31 IST" duration-ms="44" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=actest status=SUCCESS method=ApplianceTest.actest()[pri:1, instance:com.flipkart.testcases.ApplianceTest@3646a422] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.ApplianceTest -->
+      <class name="com.flipkart.testcases.becomeSellerTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:03 IST" name="startTest" finished-at="2023-01-09T16:59:03 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.becomeSellerTest.verifyLocalShippingFees()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyLocalShippingFees()[pri:1, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:03 IST" name="verifyLocalShippingFees" finished-at="2023-01-09T16:59:12 IST" duration-ms="9094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLocalShippingFees -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:12 IST" name="status" finished-at="2023-01-09T16:59:12 IST" duration-ms="107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLocalShippingFees status=SUCCESS method=becomeSellerTest.verifyLocalShippingFees()[pri:1, instance:com.flipkart.testcases.becomeSellerTest@26d9b808] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:12 IST" name="startTest" finished-at="2023-01-09T16:59:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.becomeSellerTest.verifyZonalShippingFees()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyZonalShippingFees()[pri:2, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:12 IST" name="verifyZonalShippingFees" finished-at="2023-01-09T16:59:12 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyZonalShippingFees -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:12 IST" name="status" finished-at="2023-01-09T16:59:12 IST" duration-ms="123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyZonalShippingFees status=SUCCESS method=becomeSellerTest.verifyZonalShippingFees()[pri:2, instance:com.flipkart.testcases.becomeSellerTest@26d9b808] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method signature="verifyNationalShippingFees()[pri:3, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:12 IST" name="verifyNationalShippingFees" finished-at="2023-01-09T16:59:14 IST" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNationalShippingFees -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:12 IST" name="startTest" finished-at="2023-01-09T16:59:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.becomeSellerTest.verifyNationalShippingFees()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.becomeSellerTest@26d9b808]" started-at="2023-01-09T16:59:14 IST" name="status" finished-at="2023-01-09T16:59:14 IST" duration-ms="73" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNationalShippingFees status=SUCCESS method=becomeSellerTest.verifyNationalShippingFees()[pri:3, instance:com.flipkart.testcases.becomeSellerTest@26d9b808] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.becomeSellerTest -->
+      <class name="com.flipkart.testcases.MenClothingTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.MenClothingTest@750e2b97]" started-at="2023-01-09T16:58:31 IST" name="startTest" finished-at="2023-01-09T16:58:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.MenClothingTest.sweatshirtTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="sweatshirtTest()[pri:0, instance:com.flipkart.testcases.MenClothingTest@750e2b97]" started-at="2023-01-09T16:58:31 IST" name="sweatshirtTest" finished-at="2023-01-09T16:58:37 IST" duration-ms="5304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sweatshirtTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.MenClothingTest@750e2b97]" started-at="2023-01-09T16:58:37 IST" name="status" finished-at="2023-01-09T16:58:37 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sweatshirtTest status=SUCCESS method=MenClothingTest.sweatshirtTest()[pri:0, instance:com.flipkart.testcases.MenClothingTest@750e2b97] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.MenClothingTest -->
+      <class name="com.flipkart.testcases.downloadAppTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.downloadAppTest@f78a47e]" started-at="2023-01-09T16:59:14 IST" name="startTest" finished-at="2023-01-09T16:59:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.downloadAppTest.downloadApptest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="downloadApptest()[pri:0, instance:com.flipkart.testcases.downloadAppTest@f78a47e]" started-at="2023-01-09T16:59:14 IST" name="downloadApptest" finished-at="2023-01-09T16:59:19 IST" duration-ms="4807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadApptest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.downloadAppTest@f78a47e]" started-at="2023-01-09T16:59:19 IST" name="status" finished-at="2023-01-09T16:59:19 IST" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=downloadApptest status=SUCCESS method=downloadAppTest.downloadApptest()[pri:0, instance:com.flipkart.testcases.downloadAppTest@f78a47e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.downloadAppTest -->
+      <class name="com.flipkart.testcases.BooksTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.BooksTest@298a5e20]" started-at="2023-01-09T16:58:46 IST" name="startTest" finished-at="2023-01-09T16:58:46 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.BooksTest.literaturebooktest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="literaturebooktest()[pri:0, instance:com.flipkart.testcases.BooksTest@298a5e20]" started-at="2023-01-09T16:58:46 IST" name="literaturebooktest" finished-at="2023-01-09T16:58:48 IST" duration-ms="1523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- literaturebooktest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.BooksTest@298a5e20]" started-at="2023-01-09T16:58:48 IST" name="status" finished-at="2023-01-09T16:58:48 IST" duration-ms="50" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=literaturebooktest status=SUCCESS method=BooksTest.literaturebooktest()[pri:0, instance:com.flipkart.testcases.BooksTest@298a5e20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.BooksTest -->
+      <class name="com.flipkart.testcases.WomenClothingTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.WomenClothingTest@3e27aa33]" started-at="2023-01-09T16:58:37 IST" name="startTest" finished-at="2023-01-09T16:58:37 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.WomenClothingTest.heelsTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="heelsTest()[pri:0, instance:com.flipkart.testcases.WomenClothingTest@3e27aa33]" started-at="2023-01-09T16:58:37 IST" name="heelsTest" finished-at="2023-01-09T16:58:40 IST" duration-ms="3888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heelsTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.WomenClothingTest@3e27aa33]" started-at="2023-01-09T16:58:40 IST" name="status" finished-at="2023-01-09T16:58:41 IST" duration-ms="110" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heelsTest status=SUCCESS method=WomenClothingTest.heelsTest()[pri:0, instance:com.flipkart.testcases.WomenClothingTest@3e27aa33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.WomenClothingTest -->
+      <class name="com.flipkart.testcases.SportsTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.SportsTest@2a7f1f10]" started-at="2023-01-09T16:58:48 IST" name="startTest" finished-at="2023-01-09T16:58:48 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.SportsTest.crickettest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="crickettest()[pri:0, instance:com.flipkart.testcases.SportsTest@2a7f1f10]" started-at="2023-01-09T16:58:48 IST" name="crickettest" finished-at="2023-01-09T16:58:50 IST" duration-ms="1891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crickettest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.SportsTest@2a7f1f10]" started-at="2023-01-09T16:58:50 IST" name="status" finished-at="2023-01-09T16:58:50 IST" duration-ms="39" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=crickettest status=SUCCESS method=SportsTest.crickettest()[pri:0, instance:com.flipkart.testcases.SportsTest@2a7f1f10] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.SportsTest -->
+      <class name="com.flipkart.testcases.productSearchTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.productSearchTest@2892d68]" started-at="2023-01-09T16:58:26 IST" name="startTest" finished-at="2023-01-09T16:58:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.productSearchTest.productSearch() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="productSearch()[pri:0, instance:com.flipkart.testcases.productSearchTest@2892d68]" started-at="2023-01-09T16:58:26 IST" name="productSearch" finished-at="2023-01-09T16:58:27 IST" duration-ms="1089" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [realme 9 Pro 5G (Sunrise Blue, 128 GB)]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [realme 9 Pro 5G (Sunrise Blue, 128 GB)]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.flipkart.testcases.productSearchTest.productSearch(productSearchTest.java:35)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.productSearchTest@2892d68]" started-at="2023-01-09T16:58:27 IST" name="status" finished-at="2023-01-09T16:58:27 IST" duration-ms="317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productSearch status=FAILURE method=productSearchTest.productSearch()[pri:0, instance:com.flipkart.testcases.productSearchTest@2892d68] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.productSearchTest -->
+      <class name="com.flipkart.testcases.giftCardTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.giftCardTest@740cae06]" started-at="2023-01-09T16:58:56 IST" name="startTest" finished-at="2023-01-09T16:58:56 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.giftCardTest.GiftCardTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="GiftCardTest()[pri:1, instance:com.flipkart.testcases.giftCardTest@740cae06]" started-at="2023-01-09T16:58:56 IST" name="GiftCardTest" finished-at="2023-01-09T16:59:00 IST" duration-ms="3306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.giftCardTest@740cae06]" started-at="2023-01-09T16:59:00 IST" name="status" finished-at="2023-01-09T16:59:00 IST" duration-ms="72" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GiftCardTest status=SUCCESS method=giftCardTest.GiftCardTest()[pri:1, instance:com.flipkart.testcases.giftCardTest@740cae06] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.giftCardTest@740cae06]" started-at="2023-01-09T16:59:00 IST" name="startTest" finished-at="2023-01-09T16:59:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.giftCardTest.buyFlipkartGiftCardTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="buyFlipkartGiftCardTest()[pri:2, instance:com.flipkart.testcases.giftCardTest@740cae06]" started-at="2023-01-09T16:59:00 IST" name="buyFlipkartGiftCardTest" finished-at="2023-01-09T16:59:02 IST" duration-ms="2632" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [true]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:643)
+at com.flipkart.testcases.giftCardTest.buyFlipkartGiftCardTest(giftCardTest.java:54)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyFlipkartGiftCardTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.giftCardTest@740cae06]" started-at="2023-01-09T16:59:02 IST" name="status" finished-at="2023-01-09T16:59:03 IST" duration-ms="358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=buyFlipkartGiftCardTest status=FAILURE method=giftCardTest.buyFlipkartGiftCardTest()[pri:2, instance:com.flipkart.testcases.giftCardTest@740cae06] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.giftCardTest -->
+      <class name="com.flipkart.testcases.custCareTest">
+        <test-method signature="customerCareTest()[pri:1, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:50 IST" name="customerCareTest" finished-at="2023-01-09T16:58:51 IST" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerCareTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:50 IST" name="startTest" finished-at="2023-01-09T16:58:50 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.custCareTest.customerCareTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:51 IST" name="status" finished-at="2023-01-09T16:58:51 IST" duration-ms="84" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerCareTest status=SUCCESS method=custCareTest.customerCareTest()[pri:1, instance:com.flipkart.testcases.custCareTest@46cdf8bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:51 IST" name="startTest" finished-at="2023-01-09T16:58:51 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.custCareTest.custcare_order() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="custcare_order()[pri:2, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:51 IST" name="custcare_order" finished-at="2023-01-09T16:58:52 IST" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- custcare_order -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:52 IST" name="status" finished-at="2023-01-09T16:58:52 IST" duration-ms="62" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=custcare_order status=SUCCESS method=custCareTest.custcare_order()[pri:2, instance:com.flipkart.testcases.custCareTest@46cdf8bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:52 IST" name="startTest" finished-at="2023-01-09T16:58:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.custCareTest.custcare_return() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="custcare_return()[pri:3, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:52 IST" name="custcare_return" finished-at="2023-01-09T16:58:53 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- custcare_return -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:53 IST" name="status" finished-at="2023-01-09T16:58:53 IST" duration-ms="52" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=custcare_return status=SUCCESS method=custCareTest.custcare_return()[pri:3, instance:com.flipkart.testcases.custCareTest@46cdf8bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:53 IST" name="startTest" finished-at="2023-01-09T16:58:53 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.custCareTest.custcare_shopping() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="custcare_shopping()[pri:4, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:53 IST" name="custcare_shopping" finished-at="2023-01-09T16:58:54 IST" duration-ms="818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- custcare_shopping -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.custCareTest@46cdf8bd]" started-at="2023-01-09T16:58:54 IST" name="status" finished-at="2023-01-09T16:58:54 IST" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=custcare_shopping status=SUCCESS method=custCareTest.custcare_shopping()[pri:4, instance:com.flipkart.testcases.custCareTest@46cdf8bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.custCareTest -->
+      <class name="com.flipkart.testcases.ElectronicTest">
+        <test-method signature="pendriveTest()[pri:1, instance:com.flipkart.testcases.ElectronicTest@5ab956d7]" started-at="2023-01-09T16:58:27 IST" name="pendriveTest" finished-at="2023-01-09T16:58:28 IST" duration-ms="1400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pendriveTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.ElectronicTest@5ab956d7]" started-at="2023-01-09T16:58:27 IST" name="startTest" finished-at="2023-01-09T16:58:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.ElectronicTest.pendriveTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.ElectronicTest@5ab956d7]" started-at="2023-01-09T16:58:28 IST" name="status" finished-at="2023-01-09T16:58:28 IST" duration-ms="43" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pendriveTest status=SUCCESS method=ElectronicTest.pendriveTest()[pri:1, instance:com.flipkart.testcases.ElectronicTest@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.flipkart.testcases.ElectronicTest@5ab956d7]" started-at="2023-01-09T16:58:28 IST" name="startTest" finished-at="2023-01-09T16:58:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.testcases.ElectronicTest.powerbankTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="powerbankTest()[pri:2, instance:com.flipkart.testcases.ElectronicTest@5ab956d7]" started-at="2023-01-09T16:58:28 IST" name="powerbankTest" finished-at="2023-01-09T16:58:30 IST" duration-ms="1438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- powerbankTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.ElectronicTest@5ab956d7]" started-at="2023-01-09T16:58:30 IST" name="status" finished-at="2023-01-09T16:58:30 IST" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=powerbankTest status=SUCCESS method=ElectronicTest.powerbankTest()[pri:2, instance:com.flipkart.testcases.ElectronicTest@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- com.flipkart.testcases.ElectronicTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

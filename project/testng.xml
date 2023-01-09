@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.flipkart.testcases.loginPageTest" />
+			<class name="com.flipkart.testcases.productSearchTest" />
+			<class name="com.flipkart.testcases.ElectronicTest" />
+			<class name="com.flipkart.testcases.ApplianceTest" />
+			<class name="com.flipkart.testcases.MenClothingTest" />
+			<class name="com.flipkart.testcases.WomenClothingTest" />
+			<class name="com.flipkart.testcases.KidsToyTest" />
+			<class name="com.flipkart.testcases.furnitureTest" />
+			<class name="com.flipkart.testcases.BooksTest" />
+			<class name="com.flipkart.testcases.SportsTest" />
+			<class name="com.flipkart.testcases.custCareTest" />
+			<class name="com.flipkart.testcases.CoinBalanceTest" />
+			<class name="com.flipkart.testcases.giftCardTest" />
+			<class name="com.flipkart.testcases.becomeSellerTest" />
+			<class name="com.flipkart.testcases.downloadAppTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
